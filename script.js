@@ -381,7 +381,7 @@ createDesktopApp({
     name: 'Minecraft Java Edition (cracked)',
     onOpen: () => {
         createWindow({
-            url: "https://eaglercraft-.glitch.me",
+            url: "eaglercraft",//this is only going to work on my website, where i have a local version of eaglercraft.
             icon: "®️",
             title: "Minecraft",
             width: 750,
